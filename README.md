@@ -138,9 +138,3 @@ Submissions are evaluated on area under the ROC curve between the predicted prob
 
 (6K participants)
 
-### Things to Learn
-* StratifiedKFold for Imbalanced dataset
-* Feature Importance and Selection
-* Removing correlated Features
-* Ensemble and Stacking
-* Feature Engineering
