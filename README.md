@@ -1,5 +1,3 @@
-![title](amex.jpg)
-
 # AmExpert 2019 – Machine Learning Hackathon
 
 ## Introduction
@@ -43,8 +41,6 @@ Based on previous transaction & performance data from the last 18 campaigns, pre
 ### Dataset Description
 
 Here is the schema for the different data tables available. The detailed data dictionary is provided next.
-
-![title](amex19.png)
 
 You are provided with the following files in train.zip:
 
@@ -139,19 +135,6 @@ Submissions are evaluated on area under the ROC curve between the predicted prob
 * Test data is further randomly divided into Public (40%) and Private data (60%)
 * Your initial responses will be checked and scored on the Public data.
 * The final rankings would be based on your private score which will be published once the competition is over.
-
-
-## Note
-
-* **AV_amex_lgb_folds_v28.csv** Private Score of 92.50 (Submitted)
-* **AV_amex_stack2_folds_v28.csv** Private Score 92.811 (Best out of all - mean of CB and LGBM)
-* Stacking always works, dont ignore whatever Public LB says
-* [Kaggle Link](https://www.kaggle.com/rajatranjan/av-amexpert-2019) Best Kernel -**v31**
-
-### Leaderboard
-
-* **[Public LB](https://datahack.analyticsvidhya.com/contest/amexpert-2019-machine-learning-hackathon/lb)** : **13th/993 Rank**
-* **[Private LB](https://datahack.analyticsvidhya.com/contest/amexpert-2019-machine-learning-hackathon/pvt_lb)** : **18th/993 Rank**
 
 (6K participants)
 
