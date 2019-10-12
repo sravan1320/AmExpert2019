@@ -1,3 +1,5 @@
+![title](AmExpert.jpg)
+
 # AmExpert 2019 – Machine Learning Hackathon
 
 ## Introduction
