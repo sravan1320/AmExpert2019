@@ -44,6 +44,8 @@ Based on previous transaction & performance data from the last 18 campaigns, pre
 
 Here is the schema for the different data tables available. The detailed data dictionary is provided next.
 
+![title](amex19.png)
+
 You are provided with the following files in train.zip:
 
 **train.csv:** Train data containing the coupons offered to the given customers under the 18 campaigns
